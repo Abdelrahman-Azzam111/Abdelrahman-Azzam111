@@ -2,8 +2,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=DC143C&center=true&vCenter=true&width=500&lines=A+Passionate+Leader;A+Pro+Gamer;Frontend+Web+Developer;Game+Developer;App+Developer;Graphic+Designer" alt="Typing SVG" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Azzam111&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrahman Azzam" /> </p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Azzam111&color=DC143C&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Abdelrahman-Azzam111?style=flat-square&color=DC143C" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Abdelrahman-Azzam111?style=flat-square&color=DC143C" alt="GitHub stars" />
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrahman-Azzam111" alt="Abdelrahman Azzam" /></a> </p>
 
 Reach me at : abdelrahman.azzam111yahoo@gmail.com
