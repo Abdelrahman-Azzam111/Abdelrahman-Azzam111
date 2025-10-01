@@ -1,6 +1,7 @@
 <h1 align="center">Hello guys, Abdelrahman Azzam is here with you.</h1>
-<h3 align="center">A Passionate Leader, Frontend Web Developer, Game Developer, App Developer Graphic Designer.</h3>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=DC143C&center=true&vCenter=true&width=500&lines=A+Passionate+Leader;A+Pro+Gamer;Frontend+Web+Developer;Game+Developer;App+Developer;Graphic+Designer" alt="Typing SVG" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Azzam111&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrahman Azzam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrahman-Azzam111" alt="Abdelrahman Azzam" /></a> </p>
