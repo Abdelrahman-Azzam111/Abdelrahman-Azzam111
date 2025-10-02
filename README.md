@@ -1,4 +1,9 @@
-<h1 align="center">Hello guys, Abdelrahman Azzam is here with you.</h1>
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=soft&color=DC143C&fontColor=FFFFFF&text=Hello%20guys,%20👋,%20Abdelrahman%20Azzam%20is%20here%20with%20you&fontSize=33&fontAlignY=55)
+
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=DC143C&center=true&vCenter=true&width=500&lines=A+Passionate+Leader;A+Pro+Gamer;Frontend+Web+Developer;Game+Developer;App+Developer;Graphic+Designer" alt="Typing SVG" />
 </div>
