@@ -20,6 +20,6 @@ Reach me at : abdelrahman.azzam111yahoo@gmail.com
 
 
 <div align="center">
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Azzam111&show_icons=true"/>
+<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Azzam111&show_icons=true"/>
 <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Azzam111&show_icons=true&langs_count=10&layout=compact"/>
 </div>
